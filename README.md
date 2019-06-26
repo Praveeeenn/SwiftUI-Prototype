@@ -5,8 +5,7 @@ Complex UI in Swift
 Prototype for Tranding Models in dark mode too.
 
 
-![](https://github.com/Praveeeenn/SwiftUI-Prototype/blob/master/white.gif) ![](https://github.com/Praveeeenn/SwiftUI-Prototype/blob/master/white.gif) 
-![](https://github.com/Praveeeenn/SwiftUI-Prototype/blob/master/RPReplay_Final1561547652.MP4)
+![](https://github.com/Praveeeenn/SwiftUI-Prototype/blob/master/white.gif) ![](https://github.com/Praveeeenn/SwiftUI-Prototype/blob/master/dark1.gif) 
 
 
 
